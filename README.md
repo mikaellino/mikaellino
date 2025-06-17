@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=121a6b&text=Hello%20World!🙋🏻‍♂️&section=header&reversal=false&textBg=false&fontColor=781010&animation=twinkling&fontSize=50&rotate=-1&strokeWidth=-1&desc=Its%20me,%20Mikael&descAlign=50&stroke=121a6b" alt="Banner do Perfil"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=781010&text=Hello%20World!🙋🏻‍♂️&section=header&reversal=false&textBg=false&fontColor=121a6b&animation=twinkling&fontSize=50&rotate=-1&strokeWidth=-1&desc=Its%20me,%20Mikael&descAlign=50&stroke=781010" alt="Banner do Perfil"/>
 </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=121A6B&width=435&lines=I'm+driven+by+solving+problems+through+lines+of+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=781010&width=540&lines=I'm+driven+by+solving+problems+through+lines+of+code." alt="Typing SVG" />
   </a>
 </div>
 
@@ -68,9 +68,11 @@ E aí! Sou um entusiasta da tecnologia, movido pela curiosidade e por novos desa
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
     </td>
   </tr>
 </table>
