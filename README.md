@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=180&section=header&text=Seu%20Nome&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20|%20Entusiasta%20de%20Tecnologia%20|%20Amante%20de%20Café%20☕&descAlignY=51&descAlign=62" alt="Banner do Perfil](https://capsule-render.vercel.app/api?type=venom&height=300&color=121a6b&text=Hello%20World!🙋🏻‍♂️&section=header&reversal=false&textBg=false&fontColor=781010&animation=twinkling&fontSize=50&rotate=-1&strokeWidth=-1&desc=Its%20me,%20Mikael&descAlign=50&stroke=121a6b)">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=121a6b&text=Hello%20World!🙋🏻‍♂️&section=header&reversal=false&textBg=false&fontColor=781010&animation=twinkling&fontSize=50&rotate=-1&strokeWidth=-1&desc=Its%20me,%20Mikael&descAlign=50&stroke=121a6b" alt="Banner do Perfil"/>
 </p>
 
 <div align="center">
-  <a href="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=121A6B&width=435&lines=I'm+driven+by+solving+problems+through+lines+of+code.)](https://git.io/typing-svg)" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=121A6B&width=435&lines=I'm+driven+by+solving+problems+through+lines+of+code." alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -22,9 +24,9 @@ E aí! Sou um entusiasta da tecnologia, movido pela curiosidade e por novos desa
 ### 📊 **Meu Dashboard de Desenvolvedor**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?mikaellino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?mikaellino&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?mikaellino&theme=dracula&column=3&row=2&margin-w=15&margin-h=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaellino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mikaellino&theme=dracula&column=3&row=2&margin-w=15&margin-h=15"/>
 </p>
 
 ---
