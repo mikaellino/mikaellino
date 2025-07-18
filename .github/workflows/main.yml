@@ -9,20 +9,18 @@ jobs:
   build:
     permissions:
       contents: write
-
+      
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-
+          
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=2dd4bf&color_dots=f1f5f9
-
-          outputs_dark: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=2dd4bf&color_dots=#1f2937&background=#0d1117
-
+            dist/github-contribution-grid-snake-dark.svg?color_snake=2dd4bf&color_dots=1f293b&dark_mode=true
+            
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
