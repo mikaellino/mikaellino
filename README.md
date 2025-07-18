@@ -87,5 +87,5 @@ E aí! Sou um entusiasta da tecnologia, movido pela curiosidade e por novos desa
 </p>
 
 <p align="center">
-  <img src="https://github.com/mikaellino/mikaellino/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img src="https://github.com/mikaellino/mikaellino/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
