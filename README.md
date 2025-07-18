@@ -82,7 +82,7 @@ E aí! Sou um entusiasta da tecnologia, movido pela curiosidade e por novos desa
 ### 🔗 **Conecte-se Comigo**
 
 <p align="center">
-  <a href="mailto:mikaelhenriquelino@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d47a1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:mikaelhenriquelino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/mikaelhenriquelinorodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0d47a1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
