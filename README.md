@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=781010&text=Hello%20World!🙋🏻‍♂️&section=header&reversal=false&textBg=false&fontColor=121a6b&animation=twinkling&fontSize=50&rotate=-1&strokeWidth=-1&desc=Its%20me,%20Mikael&descAlign=50&stroke=781010" alt="Banner do Perfil"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0d47a1&text=Hello%20World!🙋🏻‍♂️&section=header&reversal=false&textBg=false&fontColor=2dd4bf&animation=twinkling&fontSize=50&rotate=-1&strokeWidth=-1&desc=It%27s%20me,%20Mikael&descAlign=50&stroke=0d47a1" alt="Banner do Perfil"/>
 </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=781010&width=540&lines=I'm+driven+by+solving+problems+through+lines+of+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=2dd4bf&width=540&lines=I'm+driven+by+solving+problems+through+lines+of+code." alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,9 +24,9 @@ E aí! Sou um entusiasta da tecnologia, movido pela curiosidade e por novos desa
 ### 📊 **Meu Dashboard de Desenvolvedor**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaellino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellino&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mikaellino&theme=dracula&column=3&row=2&margin-w=15&margin-h=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaellino&show_icons=true&theme=onedark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaellino&layout=compact&theme=onedark&hide_border=true"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mikaellino&theme=onedark&column=3&row=2&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -82,8 +82,8 @@ E aí! Sou um entusiasta da tecnologia, movido pela curiosidade e por novos desa
 ### 🔗 **Conecte-se Comigo**
 
 <p align="center">
-  <a href="mailto:mikaelhenriquelino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/mikaelhenriquelinorodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mikaelhenriquelino@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d47a1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/mikaelhenriquelinorodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0d47a1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
